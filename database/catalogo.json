@@ -1,0 +1,32 @@
+[
+    {
+        "codigo": 1,
+        "titulo": "Rambo",
+        "duracao": 240,
+        "atores": [ "sylvester stallone", "Richard Crenna", "Brian Dennehy" ],
+        "anoDeLancamento": 1982,
+        "bilheteria": 125.2,
+        "genero": "acao",
+        "emCartaz": false
+    },
+    {
+        "codigo": 2,
+        "titulo": "O Exterminador do Futuro 2 - O Julgamento Final",
+        "duracao": 160,
+        "atores": [ "Arnold Schwarzenegger', 'Linda Hamilton" ],
+        "anoDeLancamento": 1984,
+        "bilheteria": 102.2,
+        "genero": "acao",
+        "emCartaz": true
+    },
+    {
+        "codigo": 3,
+        "titulo": "Requiem for a Dream",
+        "duracao": 140,
+        "atores": [ "Ellen Burstyn", "Jared Leto", "Jennifer Connelly", "Marlon Wayans" ],
+        "anoDeLancamento": 2000,
+        "bilheteria": 10.2,
+        "genero": "drama",
+        "emCartaz": true
+    }    
+]
